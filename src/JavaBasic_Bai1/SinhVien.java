@@ -6,6 +6,7 @@ public class SinhVien {
     public static String shoolName = "Đại học Công nghệ thông tin"; //Biến static
 
     public void getAge () {
+
         int age = 20; //Biến cục bộ (Biến local)
     }
 
